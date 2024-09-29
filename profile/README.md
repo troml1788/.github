@@ -7,7 +7,9 @@
   + 进阶篇
   + 爬虫
 + OpenStack
-  [手工搭建OpenStack](https://github.com/BytequestorNotes/notes_pub/issues/2)
+  + [手工搭建OpenStack](https://github.com/BytequestorNotes/notes_pub/issues/2)
+
 + k8s
-  [手工部署k8s](https://github.com/BytequestorNotes/notes_pub/issues/3)
+  + [手工部署k8s](https://github.com/BytequestorNotes/notes_pub/issues/3)
+
 
