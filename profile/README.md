@@ -17,9 +17,12 @@
 
 ## 腾讯云
 
+仅作记录，没有密码无法拉取的
+
 | 编号(不分排名) |       镜像        |                          拉取命令                          |           备注           |
 | :------------: | :---------------: | :--------------------------------------------------------: | :----------------------: |
 |       1        |  `mysql:8.0.39`   |  `docker pull ccr.ccs.tencentyun.com/troml/mysql:8.0.39`   |                          |
 |       2        |   `redis:7.4.0`   |   `docker pull ccr.ccs.tencentyun.com/troml/redis:7.4.0`   |                          |
 |       3        | `todo:v1/todo:v2` |     `docker pull ccr.ccs.tencentyun.com/troml/todo:v1`     |      分为`v1`和`v2`      |
 |       4        | `owncloud:latest` | `docker pull ccr.ccs.tencentyun.com/troml/owncloud:latest` | 于`2024-10-06日首次见面` |
+
