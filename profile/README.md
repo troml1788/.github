@@ -22,6 +22,8 @@
 | :------: | :--: | :---------------------------: | ------------------------------------------------------------ |
 |  `C++`   |  2   |  机器视觉/网络安全/自考本科   | [C++学习仓库](https://github.com/troml1788/CPP-Learn)        |
 |   `C#`   |  1   | 机器视觉/电气自动化（上位机） | C#学习仓库（暂无）                                           |
+|  `PLC`   |  1   |          电气自动化           | [PLC学习仓库](https://github.com/troml1788/PLC-Learn)        |
+|  `ABB`   |  0   |          电气自动化           | [ABB学习仓库](https://github.com/troml1788/ABB-Learn)        |
 | `Python` |  0   |           网络安全            | [Python学习仓库](https://github.com/ByteQuestor/python-learn) |
 
 # 记录格式
